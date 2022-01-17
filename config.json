@@ -1,0 +1,10 @@
+{
+  "applicationName": "VertCode | Images",
+  "applicationDescription": "An amazing screenshot uploaded made by VertCode Development.",
+  "applicationColor": "#cb241c",
+  "dataFolder": "data",
+  "url": "http://localhost:5005",
+  "tokens": [
+    "example-token"
+  ]
+}

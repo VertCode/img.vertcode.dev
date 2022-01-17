@@ -1,0 +1,22 @@
+{
+  "name": "image-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch ./public/src/scss -o ./public/src/css",
+    "devStart": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "fs": "^0.0.1-security",
+    "node-sass": "^7.0.0",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  },
+  "keywords": [],
+  "author": "VertCode Development",
+  "license": "ISC"
+}
